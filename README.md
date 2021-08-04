@@ -1,1 +1,2 @@
-# Mahi
+# mahi
+sample project
